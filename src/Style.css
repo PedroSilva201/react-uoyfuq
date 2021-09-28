@@ -1,0 +1,22 @@
+body{
+  font-family:calibri;
+}
+button{
+  padding:2px8px;
+}
+.linha{
+  display:flex;
+  flex-direction:row;
+}
+.aa{
+  background-color:LightSkyBlue;
+  border:1pxsolidblack;
+  padding:4px20px;
+  margin:4px;
+}
+.bb{
+  background-color:PaleGreen;
+  border:1pxsolidblack;
+  padding:4px20px;
+  margin:4px;
+}
